@@ -4,7 +4,7 @@ Congratulations for getting to this point! If you complete this task the job wil
 In this callenge we'll be using the model described below:  
 A `Page` has a title and can contain several `Images` and `Texts`. Each of these elements has a position (X,Y) on the page. This is an example of 3 different pages:
 
-![alt text](https://i.imgur.com/Tb9XAyM.png)
+![alt text](https://i.imgur.com/YPJ1uKN.png)
 
 1)This repo contains the Sample ASP.NET Framework Web Application. Clone it and write an endpoint that receives a page as a json, and stores it on a database. Use [this postman request](https://www.postman.com/collections/4bd9550c6d02794d2006) as a starting point. Once you are done, the postman request should be working (returning a 2XX). 
 
