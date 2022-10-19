@@ -26,6 +26,6 @@ Take into account that apart from the correct funcioning we'll pay special atten
 
   * Make sure to share your screen and have your camara on at all times. 
   * Googling is completley fine.  
-  * You must to complete the challenge using only 1 monitor.
+  * You must complete the challenge using only 1 monitor.
   
 You have 3 hours now. Good luck!! 🤞
