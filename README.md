@@ -15,7 +15,7 @@ A `Page` has a title and can contain several `Images` and `Texts`. Each of these
   *(If you don't know how to import a collection into postman, you can check [this guide](https://learning.postman.com/docs/getting-started/importing-and-exporting-data/))*
 
 
-b)Write an endpoint that receives an (X,Y) pair and returns the `Title` of the pages that have *every element* with positions >= (X,Y).  
+b)Write an endpoint that receives an (X,Y) pair and returns the `Title` of the pages that have **every element** with positions >= (X,Y).  
 For example, if we call the endpoint passing (3,3) with the 3 Pages listed in the image avobe, we should get "3 stacked texts" as the response
 
 2)Connect your solution to a PG database hosted on [this Docker image](https://hub.docker.com/_/postgres) and [this ADO.NET Data provider](https://www.npgsql.org/ef6/index.html)
