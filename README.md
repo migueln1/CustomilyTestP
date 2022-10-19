@@ -21,3 +21,10 @@ b)Write an endpoint that receives an (X,Y) pair and returns the `Title` of the p
 
 3)Migrate your solution to .NET 6 and run it on VS Code
 
+Take into account that apart from the correct funcioning we'll pay special attention to the **proper application of design patterns** and the  **maintainability** of your code.  
+
+  * Make sure to share your screen and have your camara on at all times. 
+  * Googling is completley fine.  
+  * You must to complete the challenge using only 1 monitor.
+  
+You have 3 hours now. Good luck!! 🤞
