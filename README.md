@@ -18,7 +18,7 @@ A `Page` has a title and can contain several `Images` and `Texts`. Each of these
 b)Write an endpoint that receives an (X,Y) pair and returns the `Title` of the pages that have **every element** with positions >= (X,Y).  
 For example, if we call the endpoint passing (3,3) with the 3 Pages listed in the image avobe, we should get "3 stacked texts" as the response
 
-2)Connect your solution to a PG database hosted on [this Docker image](https://hub.docker.com/_/postgres) and [this ADO.NET Data provider](https://www.npgsql.org/ef6/index.html)
+2)Connect your solution to a PG database hosted on [this Docker image](https://hub.docker.com/_/postgres) using [this ADO.NET Data provider](https://www.npgsql.org/ef6/index.html)
 
 3)Migrate your solution to .NET 6 and run it on VS Code
 
