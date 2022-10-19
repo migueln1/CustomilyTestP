@@ -6,7 +6,7 @@ A `Page` has a title and can contain several `Images` and `Texts`. Each of these
 
 ![alt text](https://i.imgur.com/Tb9XAyM.png)
 
-1)This repo contains the Sample ASP.NET Framework Web Application. Clone it and write the code so we can store the data from [this postman request](https://www.postman.com/collections/4bd9550c6d02794d2006) on a database.  
+1)This repo contains the Sample ASP.NET Framework Web Application. Clone it and write an endpoint that receives a page as a json, and stores it on a database. Use [this postman request](https://www.postman.com/collections/4bd9550c6d02794d2006) as an example to make sure your code is working.  
 
   * All the entities you create should have a `CreatedDate` and a `ModfiedDate` field. 
   * You can use any database that you want.
