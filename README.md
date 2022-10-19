@@ -2,9 +2,9 @@
 Congratulations for getting to this point! If you complete this task the job will be almost yours 💪  
 
 In this callenge we'll be using the Sample ASP.NET Framework Web Application and the follwoing Model:  
-A `Page` has a title and can contain several `Images` and `Texts`. Each of these elements has a position (CoordX,CoordY) on the page:
+A `Page` has a title and can contain several `Images` and `Texts`. Each of these elements has a position (X,Y) on the page:
 
-<insert image>
+![alt text]([https://i.imgur.com/qcAQXQX.png](https://i.imgur.com/Tb9XAyM.png)
 
 1)Clone this repo and write the code so we can store the data from [this postman request](https://www.postman.com/collections/4bd9550c6d02794d2006) on a database.  
 
@@ -15,7 +15,8 @@ A `Page` has a title and can contain several `Images` and `Texts`. Each of these
   *(If you don't know how to import a collection into postman, you can check [this guide](https://learning.postman.com/docs/getting-started/importing-and-exporting-data/))*
 
 
-b)Write an endpoint that receives an (X,Y) pair and returns the `Title` of the pages that have every element with positions > (X,Y).
+b)Write an endpoint that receives an (X,Y) pair and returns the `Title` of the pages that have every element with positions > (X,Y).  
+For example, if we call the endpoint passing (3,3) with the 3 Pages listed in the image avobe, we should get "3 stacked texts" as the response
 
 2)Connect your solution to a PG database hosted on [this Docker image](https://hub.docker.com/_/postgres) and [this ADO.NET Data provider](https://www.npgsql.org/ef6/index.html)
 
