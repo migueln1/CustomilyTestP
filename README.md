@@ -1,12 +1,13 @@
 # Customily .NET Challenge
 Congratulations for getting to this point! If you complete this task the job will be almost yours 💪  
 
-In this callenge we'll be using the Sample ASP.NET Framework Web Application and the follwoing Model:  
-A `Page` has a title and can contain several `Images` and `Texts`. Each of these elements has a position (X,Y) on the page:
+In this callenge we'll be using the model described below:  
+A `Page` has a title and can contain several `Images` and `Texts`. Each of these elements has a position (X,Y) on the page.  
+This is an example of 3 different pages:
 
-![alt text]([https://i.imgur.com/qcAQXQX.png](https://i.imgur.com/Tb9XAyM.png)
+![alt text](https://i.imgur.com/Tb9XAyM.png)
 
-1)Clone this repo and write the code so we can store the data from [this postman request](https://www.postman.com/collections/4bd9550c6d02794d2006) on a database.  
+1)This repo contains the Sample ASP.NET Framework Web Application. Clone it and write the code so we can store the data from [this postman request](https://www.postman.com/collections/4bd9550c6d02794d2006) on a database.  
 
   * All the entities you create should have a `CreatedDate` and a `ModfiedDate` field. 
   * You can use any database that you want.
