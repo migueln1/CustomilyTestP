@@ -1,8 +1,8 @@
+using CustomilyNETTest.Areas.HelpPage.ModelDescriptions;
+using CustomilyNETTest.Areas.HelpPage.Models;
 using System;
 using System.Web.Http;
 using System.Web.Mvc;
-using CustomilyNETTest.Areas.HelpPage.ModelDescriptions;
-using CustomilyNETTest.Areas.HelpPage.Models;
 
 namespace CustomilyNETTest.Areas.HelpPage.Controllers
 {
